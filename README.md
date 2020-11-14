@@ -3,7 +3,7 @@
 
 Hi, my name is Jo. I'm a artist and also interested in making games or making minecraft's mods
 
-- ![alt text][diamond_muffin16] I’m currently learning Java
+- ![alt text][diamond_muffin16] I’m currently learning basic Java
 
 More Nether Ore | Untitled Project
 --|--
