@@ -5,6 +5,12 @@ Hi, my name is Jo. I'm a artist and also interested in making games or making mi
 
 - ![alt text][diamond_muffin16] I’m currently learning Java
 
+More Nether Ore | Untitled Project
+--|--
+![More_nether_ore](https://i.imgur.com/BM44Rzr.png) | ![Soul_Arena](https://i.imgur.com/GFWrJsj.png[/img])
+💾 Coming Soon | 💾 Coming Soon
+
+
 ![alt text][twitterlogo] [Twitter][twitter] **|** ![alt text][youtubelogo] [Youtube][youtube]
 
 [golden_muffin]:https://github.com/FireMuffin303/FireMuffin303/blob/main/Gold%20tier%20muffin%20faceless16px.png
