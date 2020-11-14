@@ -1,5 +1,5 @@
-### Hi. 
-## My name is Jo, actually I'm a artist and youtube creator but i'm also interested in making games or game's mod, so I decided to start coding. 😀
+ ### My name is Jo 
+ I'm a artist and youtube creator but i'm also interested in making games or game's mod, so I decided to start coding. 😀
 
 - 🌱 I’m currently learning Java
 
