@@ -10,11 +10,13 @@ Hi, my name is Jo. I'm a artist and also interested in making games or making mi
 [More Nether Ore](https://github.com/FireMuffin303/More_Nether_Ore) | [Potion Hit](https://github.com/FireMuffin303/PotionHit)
 --|--
 ![More_nether_ore](https://i.imgur.com/BM44Rzr.png) | ![Potion_Hit](https://i.imgur.com/8uqsFtm.png)
+Minecraft Mods | Minecraft Plugins
 💾 Coming Soon | [💾 Download](https://www.mediafire.com/file/gul58ubrg9rpma4/DamagedPotion.jar/file) 
 
 Coming Soon | Coming Soon
 --|--
 ![ComingSoon][ComingSoon] |![ComingSoon][ComingSoon]
+Coming Soon! | Coming Soon!
 💾 Coming Soon | 💾 Coming Soon
 
 [golden_muffin]:https://github.com/FireMuffin303/FireMuffin303/blob/main/Gold%20tier%20muffin%20faceless16px.png
