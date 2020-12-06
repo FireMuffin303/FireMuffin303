@@ -7,7 +7,7 @@ Hi, my name is Jo. I'm a artist and also interested in making games or making mi
 
 ![alt text][twitterlogo] [Twitter][twitter] **|** ![alt text][youtubelogo] [Youtube][youtube]
 
-[More Nether Ore](https://github.com/FireMuffin303/More_Nether_Ore) | [Potion Hit](https://github.com/FireMuffin303/PotionHit)
+[More Nether Ore](https://github.com/FireMuffin303/More_Nether_Ore) | [Every time you get hit, you get a random potion](https://github.com/FireMuffin303/PotionHit)
 --|--
 ![More_nether_ore](https://i.imgur.com/BM44Rzr.png) | ![Potion_Hit](https://i.imgur.com/8uqsFtm.png)
 Minecraft Mods | Minecraft Plugins
