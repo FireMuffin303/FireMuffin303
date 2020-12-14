@@ -12,7 +12,7 @@ More Nether Ore | Every time you get hit, you get a random potion
 ![More_nether_ore](https://i.imgur.com/BM44Rzr.png) | ![Potion_Hit](https://i.imgur.com/8uqsFtm.png)
 Minecraft Mods | Minecraft Plugins
 [📖 View Repository](https://github.com/FireMuffin303/More_Nether_Ore) | [📖 View Repository](https://github.com/FireMuffin303/PotionHit)
-💾 Coming Soon | [💾 Download](https://www.mediafire.com/file/gul58ubrg9rpma4/DamagedPotion.jar/file) 
+[💾 Download](https://www.curseforge.com/minecraft/mc-mods/more-nether-ore) | [💾 Download](https://www.mediafire.com/file/gul58ubrg9rpma4/DamagedPotion.jar/file) 
 
 FireMuffin303's Datapack | Coming Soon
 --|--
