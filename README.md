@@ -16,7 +16,7 @@ Minecraft Mods | Minecraft Plugins
 
 FireMuffin303's Datapack | Origins : Void Ends
 --|--
-![Datapack](https://i.imgur.com/yWuTDJ5.png) |![Coming soon](https://i.imgur.com/GFWrJsj)
+![Datapack](https://i.imgur.com/yWuTDJ5.png) |![Coming soon](https://i.imgur.com/GFWrJsj.png)
 Minecraft Datapack | Coming soon
 [📖 View Repository](https://github.com/FireMuffin303/FireMuffin303_Datapack) |📖 Coming soon! 
 💾 Unavailable | 💾 Coming Soon!
