@@ -14,7 +14,7 @@ Minecraft Mods | Minecraft Plugins
 [📖 View Repository](https://github.com/FireMuffin303/More_Nether_Ore) | [📖 View Repository](https://github.com/FireMuffin303/PotionHit)
 [💾 Download](https://www.curseforge.com/minecraft/mc-mods/more-nether-ore) | [💾 Download](https://www.mediafire.com/file/gul58ubrg9rpma4/DamagedPotion.jar/file) 
 
-FireMuffin303's Datapack | Origins : Void Ends
+FireMuffin303's Datapack | Coming soon
 --|--
 ![Datapack](https://i.imgur.com/yWuTDJ5.png) |![Coming soon](https://i.imgur.com/GFWrJsj.png)
 Minecraft Datapack | Coming soon
