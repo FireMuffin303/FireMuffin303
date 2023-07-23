@@ -1,7 +1,7 @@
-<img src="https://imgur.com/FIoSR1b.png" width="650"> <a href="https://www.youtube.com/channel/UCHhXWBglcAzuge1qAOY2Zxw"><img src="https://imgur.com/IPFRyPX.png" width="173"></a> <a href="https://twitter.com/FireMuffin303"><img src="https://imgur.com/Fh9Jhwo.png" width="173"></a>
+<img src="https://imgur.com/FIoSR1b.png" width="650"> 
 
 ![Introduc](https://imgur.com/9CesI9Y.png)
-
+<a href="https://www.youtube.com/channel/UCHhXWBglcAzuge1qAOY2Zxw"><img src="https://imgur.com/IPFRyPX.png" width="173"></a> <a href="https://twitter.com/FireMuffin303"><img src="https://imgur.com/Fh9Jhwo.png" width="173"></a>
 
 [golden_muffin]:https://github.com/FireMuffin303/FireMuffin303/blob/main/Gold%20tier%20muffin%20faceless16px.png
 [diamond_muffin32]:https://github.com/FireMuffin303/FireMuffin303/blob/main/Diamond%20tier%20muffin%20faceless32px.png
