@@ -1,10 +1,6 @@
- # FireMuffin303 ![alt text][diamond_muffin32]
- ## ![alt text][golden_muffin] About me ![alt text][golden_muffin]
+<img src="https://imgur.com/FIoSR1b.png" width="650"> <a href="https://www.youtube.com/channel/UCHhXWBglcAzuge1qAOY2Zxw"><img src="https://imgur.com/IPFRyPX.png" width="173"></a> <a href="https://twitter.com/FireMuffin303"><img src="https://imgur.com/Fh9Jhwo.png" width="173"></a>
 
-Hi, my name is Jo. I'm a artist and also interested in making games or making minecraft's mods
-
-
-![alt text][twitterlogo] [Twitter][twitter] **|** ![alt text][youtubelogo] [Youtube][youtube]
+![Introduc](https://imgur.com/9CesI9Y.png)
 
 
 [golden_muffin]:https://github.com/FireMuffin303/FireMuffin303/blob/main/Gold%20tier%20muffin%20faceless16px.png
@@ -15,3 +11,5 @@ Hi, my name is Jo. I'm a artist and also interested in making games or making mi
 [twitterlogo]:https://github.com/FireMuffin303/FireMuffin303/blob/main/twitter16px.png
 [youtubelogo]:https://github.com/FireMuffin303/FireMuffin303/blob/main/youtube%20logo16px.png
 [ComingSoon]:https://i.imgur.com/GFWrJsj.png
+
+![FireMuffin303 Github stat](https://github-readme-stats.vercel.app/api?username=firemuffin303&show_icons=true&theme=tokyonight) ![firepit](https://imgur.com/wYDdn0G.gif)
